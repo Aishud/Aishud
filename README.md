@@ -10,7 +10,7 @@
 - 🥅 2023 Goal : Improve my potential & learn new things 
 
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Aishud&theme=prussian&date_format=j%20M%5B%20Y%5D)]
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Aishud&theme=prussian&date_format=j%20M%5B%20Y%5D)
 
 ![](https://github-readme-stats.vercel.app/api?username=Aishud&show_icons=true&theme=prussian&date_format=j%20M%5B%20Y%5D)
 
