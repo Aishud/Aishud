@@ -7,4 +7,4 @@
 - 🌱 I’m currently learning **everything**
 
 - 📫 How to reach me : **aiswaryadas238@gmail.com**
-- 🥅 2022 Goal : Improve my potential & learn new things 
+- 🥅 2023 Goal : Improve my potential & learn new things 
